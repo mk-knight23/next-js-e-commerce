@@ -32,7 +32,7 @@ function IndexPage (props) {
                   Sport Shoes
                 </h2>
                 <p className="mt-2 text-gray-400">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                  Lorem ipsum THis is new text by mk adipisicing elit.
                   Tempore facere provident molestias ipsam sint voluptatum
                   pariatur.
                 </p>
