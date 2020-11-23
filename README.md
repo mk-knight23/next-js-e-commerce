@@ -15,7 +15,4 @@ You can append `?preview` to the landing pages, product pages and the products o
 `https://<your-project>.vercel.app/products/roji?preview`
 
 ## Running Locally
-
-To run locally, rename `.env.test` to `.env` and add your project ID from [manage.sanity.io](https://manage.sanity.io). 
-
 If you have already set up deployments on Vercel, you can also do `vercel env pull` to copy environment variables to your development environment.
