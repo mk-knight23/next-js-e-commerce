@@ -19,5 +19,3 @@ You can append `?preview` to the landing pages, product pages and the products o
 To run locally, rename `.env.test` to `.env` and add your project ID from [manage.sanity.io](https://manage.sanity.io). 
 
 If you have already set up deployments on Vercel, you can also do `vercel env pull` to copy environment variables to your development environment.
-
-NOTE: If your Vercel project is set up to use the Next.js framework preset, you'll have to go to the project settings under https://vercel.com and under Build & Develpment change the _de
