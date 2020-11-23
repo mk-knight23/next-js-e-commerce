@@ -24,9 +24,6 @@ NOTE: If your Vercel project is set up to use the Next.js framework preset, you'
 
 To start the development server:
 ```bash
-npm start
-```
-This will run the frontend at http://localhost:3000 and the Sanity Studio at http://localhost:3000/studio
 
 ## Credits
 
