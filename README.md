@@ -23,8 +23,3 @@ If you have already set up deployments on Vercel, you can also do `vercel env pu
 NOTE: If your Vercel project is set up to use the Next.js framework preset, you'll have to go to the project settings under https://vercel.com and under Build & Develpment change the _development command_ to: `npm run dev`
 
 To start the development server:
-```bash
-
-## Credits
-
-The e-commerce frontend is built with Tailwind components by [khatabwedaa](https://tailwindcomponents.com/u/khatabwedaa).
