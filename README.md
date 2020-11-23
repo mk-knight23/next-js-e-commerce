@@ -13,6 +13,3 @@ The quickest way to get up and running is to go to https://www.sanity.io/create?
 You can append `?preview` to the landing pages, product pages and the products overview to enable preview mode when you are logged into your Sanity project. For example:
 
 `https://<your-project>.vercel.app/products/roji?preview`
-
-## Running Locally
-If you have already set up deployments on Vercel, you can also do `vercel env pull` to copy environment variables to your development environment.
