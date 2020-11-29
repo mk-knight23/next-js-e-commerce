@@ -1,3 +1,3 @@
 # Sanity.io and Next.js Ecommerce Starter
 
-ON VERCEL : https://next-js-e-commerce-steel-mu.vercel.app
+# DEMO : https://next-js-e-commerce-steel-mu.vercel.app
